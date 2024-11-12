@@ -1,0 +1,158 @@
+{
+  "banners": [
+    {
+      "title": "Summer Sale",
+      "description": "Enjoy up to 50% off on\n all summer products!",
+      "image": "https://img.freepik.com/fotos-premium/orgullo-diversidad-retrato-medicos-servicio-atencion-medica-integridad-hospital-trabajo-equipo-o-liderazgo-grupo-personal-medico-enfermeras-o-empleados-profesionales-mision-clinica-o-objetivos-fuerza-trabajo_952832-40573.jpg"
+
+    },
+    {
+      "title": "New Arrivals",
+      "description": "Check out the latest\n trends in our collection.",
+      "image": "https://cdn.prod.website-files.com/60a0cd9e83c3b8837315f825/63aee8d292392d81905f7431_Doctors%20at%20HCA%20hospital%20performing%20surgery.webp"
+    },
+    {
+      "title": "Holiday Discounts",
+      "description": "Get amazing discounts\n on holiday gifts and more!",
+      "image": "https://cmbmed.com/uploads/2017/07/iStock-109721617-e1506694980209.jpg"
+    },
+    {
+      "title": "Exclusive Offer",
+      "description": "Sign up now and get\n an exclusive 10% discount.",
+      "image": "https://images.sbs.com.au/dims4/default/141dc7e/2147483647/strip/true/crop/8192x4608+0+428/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F3f%2F06%2F5ba956f04c0eb48033cfeee32777%2Fgettyimages-1370321233.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "title": "Cardiology",
+      "icon": "https://cdn-icons-png.freepik.com/256/819/819236.png?semt=ais_hybrid"
+    },
+    {
+      "title": "Dentistry",
+      "icon": "https://static-00.iconduck.com/assets.00/tooth-icon-2048x1980-5u7jxq9l.png"
+    },
+    {
+      "title": "Orthopedics",
+      "icon": "https://cdn-icons-png.flaticon.com/512/421/421419.png"
+    },
+    {
+      "title": "Dermatology",
+      "icon": "https://cdn-icons-png.flaticon.com/512/2885/2885184.png"
+    },
+    {
+      "title": "Pediatrics",
+      "icon": "https://cdn.iconscout.com/icon/premium/png-256-thumb/pediatric-119224.png"
+    },
+    {
+      "title": "Ophthalmo...",
+      "icon": "https://cdn.iconscout.com/icon/premium/png-256-thumb/ophthalmology-3120389-2630962.png"
+    }
+  ],
+  "nearby_centers": [
+    {
+      "image": "https://media.istockphoto.com/id/600073876/photo/staff-in-busy-lobby-area-of-modern-hospital.jpg?s=612x612&w=0&k=20&c=-7NBIgsMELpCE9mUi-0Mc0F0bra29mQDcpodXC7S3Ro=",
+      "title": "Sunrise Health Clinic",
+      "location_name": "123 Oak Street, CA 98765",
+      "review_rate": 4.1,
+      "count_reviews": 102,
+      "distance_km": 1.1,
+      "distance_minutes": 6
+    },
+    {
+      "image": "https://www.stlukes.com.ph/assets/images/news/heartu1.jpg",
+      "title": "Golden Cardiology",
+      "location_name": "555 Bridge Street, CA 98765",
+      "review_rate": 4.2,
+      "count_reviews": 104,
+      "distance_km": 1.1,
+      "distance_minutes": 7
+    },
+    {
+      "image": "https://images.pexels.com/photos/3279209/pexels-photo-3279209.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "title": "Willow Creek Family Medicine",
+      "location_name": "678 Elm Street, CA 98766",
+      "review_rate": 4.3,
+      "count_reviews": 106,
+      "distance_km": 1.1,
+      "distance_minutes": 8
+    },
+    {
+      "image": "https://images.pexels.com/photos/1250655/pexels-photo-1250655.jpeg?auto=compress&cs=tinysrgb&w=300",
+      "title": "Crystal Springs Health Hub",
+      "location_name": "789 Pine Street, CA 98767",
+      "review_rate": 4.4,
+      "count_reviews": 108,
+      "distance_km": 1.2,
+      "distance_minutes": 9
+    },
+    {
+      "image": "https://images.pexels.com/photos/5452221/pexels-photo-5452221.jpeg?auto=compress&cs=tinysrgb&w=300",
+      "title": "Harmony Health Center",
+      "location_name": "345 Maple Street, CA 98771",
+      "review_rate": 4.3,
+      "count_reviews": 112,
+      "distance_km": 1.8,
+      "distance_minutes": 16
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSeJPa4xsHsGLpHvEbvI-VqAUgJbx3Ax2ooA&s",
+      "title": "Starlight Cardiac Institute",
+      "location_name": "901 Birch Street, CA 98769",
+      "review_rate": 4.9,
+      "count_reviews": 130,
+      "distance_km": 1.6,
+      "distance_minutes": 14
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEH0IFAEVy_t7I3fA7Zm3hL3pd1k_8WjOg3A&s",
+      "title": "Medical Center 10",
+      "location_name": "102 Oakwood Avenue, CA 98770",
+      "review_rate": 5.0,
+      "count_reviews": 135,
+      "distance_km": 1.7,
+      "distance_minutes": 15
+    }
+  ],
+  "doctors": [
+    {
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/026/375/249/small_2x/ai-generative-portrait-of-confident-male-doctor-in-white-coat-and-stethoscope-standing-with-arms-crossed-and-looking-at-camera-photo.jpg",
+      "full_name": "Dr. David Patel",
+      "type_of_doctor": "Cardiologist",
+      "location_of_center": "Health Center 1, USA",
+      "review_rate": 4.1,
+      "reviews_count": 53
+    },
+    {
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/028/287/555/small_2x/an-indian-young-female-doctor-isolated-on-green-ai-generated-photo.jpg",
+      "full_name": "Dr. Jessica Turner",
+      "type_of_doctor": "Pediatrician",
+      "location_of_center": "Health Center 2, USA",
+      "review_rate": 4.2,
+      "reviews_count": 56
+    },
+    {
+      "image": "https://www.shutterstock.com/image-photo/man-portrait-doctor-white-coat-600nw-2280796707.jpg",
+      "full_name": "Dr. Michael London",
+      "type_of_doctor": "Pediatrician",
+      "location_of_center": "Health Center 3, USA",
+      "review_rate": 5,
+      "reviews_count": 59
+    },
+    {
+      "image": "https://t4.ftcdn.net/jpg/03/17/51/21/360_F_317512117_fpFkb0KHDFlp4ZH7WQCkrkwny8TqQxlw.jpg",
+      "full_name": "Dr. Eva Johnson",
+      "type_of_doctor": "Dentist",
+      "location_of_center": "Health Center 5, USA",
+      "review_rate": 4.5,
+      "reviews_count": 65
+    },
+    {
+      "image": "https://easy-peasy.ai/cdn-cgi/image/quality=80,format=auto,width=700/https://fdczvxmwwjwpwbeeqcth.supabase.co/storage/v1/object/public/images/c85c7269-6d7c-42ca-87e4-afcef6c51373/cd48c9c6-378a-44b1-a796-3259f754a8ef.png",
+      "full_name": "Dr. Richrd Walker",
+      "type_of_doctor": "Cardiologist",
+      "location_of_center": "Health Center 6, USA",
+      "review_rate": 4.6,
+      "reviews_count": 68
+    }
+  ]
+}
